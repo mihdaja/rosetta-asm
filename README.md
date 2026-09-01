@@ -2,6 +2,8 @@
 
 A lightweight Neovim plugin to compile, run, and debug Linux **x86-64 GNU Assembler (GAS)** code on **macOS (Apple Silicon & Intel)** using Docker and Rosetta 2.
 
+Note by me: initial plugin was made by Gemini. (as you can probably tell from the code)
+
 ## ✨ Features
 
 - **Automated Docker Lifecycle**:
